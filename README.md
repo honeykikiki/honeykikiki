@@ -19,3 +19,5 @@ https://img.shields.io/badge/<LABEL>-<TypeScript>-<#3178C6>
  <img src="https://img.shields.io/badge/https://www.typescriptlang.org/branding/&logo=TypeScript&logoColor=#3178C6"/>
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=honeykikiki)](https://github.com/anuraghazra/github-readme-stats)
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeykikiki&show_icons=true&theme=radical)
