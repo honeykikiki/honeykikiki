@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -  -->
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+https://img.shields.io/badge/<LABEL>-<TypeScript>-<#3178C6>
+
+ <img src="https://img.shields.io/badge/https://www.typescriptlang.org/branding/&logo=TypeScript&logoColor=#3178C6"/>
+
