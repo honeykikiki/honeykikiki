@@ -16,6 +16,8 @@
 <span><img src="https://img.shields.io/badge/Redux-7247B6?style=flat&logo=Redux&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Next.js-1F262C?style=flat&logo=Next.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/flutter-2F76C0?style=flat&logo=sass&logoColor=white"/></span><br/>
+
 - Database : 
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
 <!-- <span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></span><br/> -->
