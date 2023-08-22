@@ -19,7 +19,7 @@
 <span><img src="https://img.shields.io/badge/flutter-2F76C0?style=flat&logo=flutter&logoColor=white"/></span><br/>
 
 - Database : 
-<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
+<!-- <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span> -->
 <!-- <span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></span><br/> -->
 - Back_end : 
 <span><img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=green"/></span>
