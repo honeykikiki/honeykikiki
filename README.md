@@ -6,6 +6,8 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honeykikiki&layout=compact&theme=material-palenight) -->
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BoYeonJang&layout=compact&theme=material-palenight) -->
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwls7566)](https://solved.ac/tjdwls7566/)
+
 ## ▎🛠 Tech Stacks
 - Front-end : 
 <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
