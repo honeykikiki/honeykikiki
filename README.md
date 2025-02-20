@@ -32,7 +32,7 @@
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span><br/>
 
 ## ▎📚 Blog For Learning
-- ### [https://honey-kikiki.tistory.com/](https://honey-kikiki.notion.site/118f122224bf8058a2ccd3de12442b43?pvs=4)
+- ### [https://honey-kikiki.notion.com/](https://honey-kikiki.notion.site/118f122224bf8058a2ccd3de12442b43?pvs=4)
 
 <!-- ## ▎🧑‍💻 Portfolio Notion
 - ### https://www.notion.so/3d45c6bd2cbd4f938873a4bd12e23375 -->
